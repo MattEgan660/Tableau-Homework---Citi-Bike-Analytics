@@ -1,0 +1,10 @@
+Tableau-Homework---Citi-Bike-Analytics
+
+Findings: 
+
+The most popular start and end stations based on the data are concentrated in Jersey City, especially around the water front areas.
+Looking at the most popular stations, we can see that two of the of the top stations are light rail stops, indicating that a large portion
+users, are using citibike as a means of "last mile" transportaion. This seems to be supported by the seasonal peak hours charts. Regardless of 
+season, we start to see a sharp rise in session starts starting around 6am and peaks at 8am which falls inline with morning comute times. 
+We also we the largest number of session starts at 6pm, which corresponds with peak rush hour. 
+
